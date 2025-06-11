@@ -1,0 +1,20 @@
+﻿@page
+@model razor_pages_challenges.Pages.BooksModel
+@{
+}
+
+
+
+<p> Great Books to Read: </p>
+<ul>
+    @foreach (string book in @Model.BestBooks)
+    {
+        <li>@book</li>
+    }
+</ul>
+
+
+@section Welcome {
+    <h2>Welcome to the Books Page!</h2>
+    <p>Here are some of the best books to read:</p>
+}

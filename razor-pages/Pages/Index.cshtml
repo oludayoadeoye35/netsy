@@ -1,0 +1,45 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    ViewData["Welcome"] = "Welcome to the ASP.NET Core Razor Pages application.";
+
+    var thanksMessage = "Thank you for visiting! Oludayo Adeyemo";
+
+    string GetThankYouMessage()
+    {
+        return ViewData["Welcome"] + " " + thanksMessage;
+    }
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @if (Model.ShowGreeting)
+    {
+    <p> @GetThankYouMessage()</p>
+    }
+
+    here are other projects to explore:
+    <ul>
+@foreach (var project in Model.OtherProjects)
+    {
+        <li>
+            @project
+        </li>
+    }
+    </ul>
+    <p>@ViewData["Welcome"]</p>
+    <p>@GetThankYouMessage()</p>
+</div>
+
+
+
+@section Scripts {
+    <script type="text/javascript" src="~/js/site.js"></script>
+
+}
+
+@section Welcome {
+    <h1 class="display-4">Welcome to cshhtml</h1>
+}
