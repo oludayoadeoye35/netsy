@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  db:
+    image: mcr.microsoft.com/azure-sql-edge
+    cap_add:
+      - SYS_PTRACE
+    environment:
+      - ACCEPT_EULA=1
+      - MSSQL_SA_PASSWORD=s3cret-Ninja
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqldata:/var/opt/mssql
+      - ./web-dev-net9-main/scripts/sql-scripts:/docker-entrypoint-initdb.d
+    container_name: azuresqledge
+    healthcheck:
+      test: /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P "s3cret-Ninja" -Q "SELECT 1" || exit 1
+      interval: 10s
+      timeout: 3s
+      retries: 10
+      start_period: 10s
+
+volumes:
+  sqldata:

@@ -1,0 +1,15 @@
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/bin/Debug/net9.0/Northwind.EntityModels.deps.json
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/bin/Debug/net9.0/Northwind.EntityModels.runtimeconfig.json
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/bin/Debug/net9.0/Northwind.EntityModels.dll
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/bin/Debug/net9.0/Northwind.EntityModels.pdb
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.csproj.AssemblyReference.cache
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.AssemblyInfoInputs.cache
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.AssemblyInfo.cs
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.csproj.CoreCompileInputs.cache
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.sourcelink.json
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.dll
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/refint/Northwind.EntityModels.dll
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.pdb
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/Northwind.EntityModels.genruntimeconfig.cache
+/workspaces/netsy/MatureWeb/Northwind.EntityModels/obj/Debug/net9.0/ref/Northwind.EntityModels.dll

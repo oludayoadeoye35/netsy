@@ -1,0 +1,13 @@
+/workspaces/netsy/Northwind.DataContext/bin/Debug/net9.0/Northwind.DataContext.deps.json
+/workspaces/netsy/Northwind.DataContext/bin/Debug/net9.0/Northwind.DataContext.dll
+/workspaces/netsy/Northwind.DataContext/bin/Debug/net9.0/Northwind.DataContext.pdb
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/Northwind.DataContext.csproj.AssemblyReference.cache
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/Northwind.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/Northwind.DataContext.AssemblyInfoInputs.cache
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/Northwind.DataContext.AssemblyInfo.cs
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/Northwind.DataContext.csproj.CoreCompileInputs.cache
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/Northwind.DataContext.sourcelink.json
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/Northwind.DataContext.dll
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/refint/Northwind.DataContext.dll
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/Northwind.DataContext.pdb
+/workspaces/netsy/Northwind.DataContext/obj/Debug/net9.0/ref/Northwind.DataContext.dll
