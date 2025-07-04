@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nyweb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+785a44bd8a3e0c024fd94bdfcca6bec41920ae29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e08c09cd790bf7d50f0d3baab688416f4310b169")]
 [assembly: System.Reflection.AssemblyProductAttribute("nyweb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nyweb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
